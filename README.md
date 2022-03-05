@@ -7,4 +7,7 @@ Today I built a calculator with HTML and CSS<br>
 Day-2
 Today I learned some basic functions in js<br>
 Day-3
-Today I started building a BMI Calculator
+Today I started building a BMI Calculator<br>
+Day-4
+Today I completed the CSS part of the BMI calculator
+
